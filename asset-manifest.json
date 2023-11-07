@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8b9694a2.css",
-    "main.js": "/portfolio/static/js/main.fa8bb7da.js",
+    "main.css": "/portfolio/static/css/main.8ffda671.css",
+    "main.js": "/portfolio/static/js/main.6d815b0f.js",
     "static/js/787.0cb2badc.chunk.js": "/portfolio/static/js/787.0cb2badc.chunk.js",
     "static/media/desk_with_person.gif": "/portfolio/static/media/desk_with_person.66c992090b58be52254f.gif",
     "static/media/blog_img2.jpg": "/portfolio/static/media/blog_img2.4a535b37d5d256792517.jpg",
     "static/media/hero_img.gif": "/portfolio/static/media/hero_img.db31352b1180a49cba69.gif",
+    "static/media/Gourab Talukdar.pdf": "/portfolio/static/media/Gourab Talukdar.e933f424a645a215455a.pdf",
     "static/media/diptiagrotech.JPG": "/portfolio/static/media/diptiagrotech.268d296b6833d76d58d2.JPG",
     "static/media/onlineexam.JPG": "/portfolio/static/media/onlineexam.c372a4801479ea5a482c.JPG",
     "static/media/redsky.JPG": "/portfolio/static/media/redsky.518068a9d7e15f37ebf0.JPG",
     "static/media/wordsworth.JPG": "/portfolio/static/media/wordsworth.bd75dd79e3156ac3c93a.JPG",
+    "static/media/client-redsky.JPG": "/portfolio/static/media/client-redsky.96d6cc3600d59a341360.JPG",
+    "static/media/client-dipti-agrotech.jpg": "/portfolio/static/media/client-dipti-agrotech.61e697e45c05bd5dd3ef.jpg",
+    "static/media/client-words-worth.jpg": "/portfolio/static/media/client-words-worth.2f98c167daf977fdba12.jpg",
     "index.html": "/portfolio/index.html",
-    "main.8b9694a2.css.map": "/portfolio/static/css/main.8b9694a2.css.map",
-    "main.fa8bb7da.js.map": "/portfolio/static/js/main.fa8bb7da.js.map",
+    "main.8ffda671.css.map": "/portfolio/static/css/main.8ffda671.css.map",
+    "main.6d815b0f.js.map": "/portfolio/static/js/main.6d815b0f.js.map",
     "787.0cb2badc.chunk.js.map": "/portfolio/static/js/787.0cb2badc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b9694a2.css",
-    "static/js/main.fa8bb7da.js"
+    "static/css/main.8ffda671.css",
+    "static/js/main.6d815b0f.js"
   ]
 }
